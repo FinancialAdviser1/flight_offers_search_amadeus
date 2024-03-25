@@ -70,6 +70,3 @@ The script flow can be visualized as follows:
 
 *Note: The documentation should be placed in a separate markdown file or as a header in the script file. It should be updated as changes are made to the script to ensure consistency and relevance.*
 
----
-
-Adding these sections gives a clearer understanding of the script's purpose, its connection to the API, and how it processes the data retrieved from the API.
