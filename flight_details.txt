@@ -1,0 +1,2801 @@
+Flight ID: 1
+Price: 606.53
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: ZRH at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: AIRBUS  A220-100
+  Carrier: SWISS INTERNATIONAL AIR LINES, Flight Number: 444
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: ZRH at 2024-04-27T10:15:00
+  Arrival: VNO at 2024-04-27T13:45:00
+  Duration: PT2H30M
+  Aircraft: EMBRAER 190 E2
+  Carrier: SWISS INTERNATIONAL AIR LINES, Flight Number: 1340
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 2
+Price: 606.53
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T12:45:00
+  Arrival: ZRH at 2024-04-26T19:35:00
+  Duration: PT11H50M
+  Aircraft: BOEING 777-300ER
+  Carrier: SWISS INTERNATIONAL AIR LINES, Flight Number: 181
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: ZRH at 2024-04-27T10:15:00
+  Arrival: VNO at 2024-04-27T13:45:00
+  Duration: PT2H30M
+  Aircraft: EMBRAER 190 E2
+  Carrier: SWISS INTERNATIONAL AIR LINES, Flight Number: 1340
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 3
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T08:00:00
+  Arrival: FRA at 2024-04-27T09:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 95
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 4
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T07:00:00
+  Arrival: FRA at 2024-04-27T08:05:00
+  Duration: PT1H5M
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 93
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 5
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T08:00:00
+  Arrival: FRA at 2024-04-27T09:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A319
+  Carrier: LUFTHANSA, Flight Number: 5015
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 6
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T07:00:00
+  Arrival: FRA at 2024-04-27T07:50:00
+  Duration: PT50M
+  Aircraft: AIRBUS A319
+  Carrier: LUFTHANSA, Flight Number: 7032
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 7
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T07:00:00
+  Arrival: FRA at 2024-04-27T08:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 7196
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 8
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T08:00:00
+  Arrival: FRA at 2024-04-27T09:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 95
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 9
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T09:00:00
+  Arrival: FRA at 2024-04-27T10:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 99
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 10
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T10:00:00
+  Arrival: FRA at 2024-04-27T11:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A320
+  Carrier: LUFTHANSA, Flight Number: 101
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 11
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T11:00:00
+  Arrival: FRA at 2024-04-27T12:05:00
+  Duration: PT1H5M
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 103
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 12
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T12:00:00
+  Arrival: FRA at 2024-04-27T13:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 105
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 13
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T14:00:00
+  Arrival: FRA at 2024-04-27T15:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A319
+  Carrier: LUFTHANSA, Flight Number: 109
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 14
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T15:00:00
+  Arrival: FRA at 2024-04-27T16:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 111
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 15
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T17:00:00
+  Arrival: FRA at 2024-04-27T18:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 115
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 16
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T18:00:00
+  Arrival: FRA at 2024-04-27T19:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 117
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 17
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T16:00:00
+  Arrival: FRA at 2024-04-27T17:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A380-800
+  Carrier: LUFTHANSA, Flight Number: 4062
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 18
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T11:00:00
+  Arrival: FRA at 2024-04-27T12:30:00
+  Duration: PT1H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4158
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 19
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T10:30:00
+  Arrival: FRA at 2024-04-27T11:30:00
+  Duration: PT1H
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4257
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 20
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T17:30:00
+  Arrival: FRA at 2024-04-27T18:40:00
+  Duration: PT1H10M
+  Aircraft: AIRBUS A320
+  Carrier: LUFTHANSA, Flight Number: 4939
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 21
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T12:00:00
+  Arrival: FRA at 2024-04-27T13:05:00
+  Duration: PT1H5M
+  Aircraft: AIRBUS A340-600
+  Carrier: LUFTHANSA, Flight Number: 5018
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 22
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T17:00:00
+  Arrival: FRA at 2024-04-27T17:50:00
+  Duration: PT50M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: LUFTHANSA, Flight Number: 7034
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 23
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T08:00:00
+  Arrival: FRA at 2024-04-27T09:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 95
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 24
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T09:00:00
+  Arrival: FRA at 2024-04-27T10:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 99
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 25
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T10:00:00
+  Arrival: FRA at 2024-04-27T11:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A320
+  Carrier: LUFTHANSA, Flight Number: 101
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 26
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T11:00:00
+  Arrival: FRA at 2024-04-27T12:05:00
+  Duration: PT1H5M
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 103
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 27
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T14:00:00
+  Arrival: FRA at 2024-04-27T15:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A319
+  Carrier: LUFTHANSA, Flight Number: 109
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 28
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T15:00:00
+  Arrival: FRA at 2024-04-27T16:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 111
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 29
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T17:00:00
+  Arrival: FRA at 2024-04-27T18:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 115
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 30
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T18:00:00
+  Arrival: FRA at 2024-04-27T19:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 117
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 31
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T16:00:00
+  Arrival: FRA at 2024-04-27T17:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A380-800
+  Carrier: LUFTHANSA, Flight Number: 4062
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 32
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T11:00:00
+  Arrival: FRA at 2024-04-27T12:30:00
+  Duration: PT1H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4158
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 33
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T10:30:00
+  Arrival: FRA at 2024-04-27T11:30:00
+  Duration: PT1H
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4257
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 34
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T12:00:00
+  Arrival: FRA at 2024-04-27T13:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A319
+  Carrier: LUFTHANSA, Flight Number: 4814
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 35
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T17:30:00
+  Arrival: FRA at 2024-04-27T18:40:00
+  Duration: PT1H10M
+  Aircraft: AIRBUS A320
+  Carrier: LUFTHANSA, Flight Number: 4939
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 36
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T12:00:00
+  Arrival: FRA at 2024-04-27T13:05:00
+  Duration: PT1H5M
+  Aircraft: AIRBUS A340-600
+  Carrier: LUFTHANSA, Flight Number: 5018
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 37
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T17:00:00
+  Arrival: FRA at 2024-04-27T17:50:00
+  Duration: PT50M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: LUFTHANSA, Flight Number: 7034
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 38
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T09:00:00
+  Arrival: FRA at 2024-04-27T10:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 99
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 39
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T10:00:00
+  Arrival: FRA at 2024-04-27T11:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A320
+  Carrier: LUFTHANSA, Flight Number: 101
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 40
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T14:00:00
+  Arrival: FRA at 2024-04-27T15:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A319
+  Carrier: LUFTHANSA, Flight Number: 109
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 41
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T15:00:00
+  Arrival: FRA at 2024-04-27T16:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 111
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 42
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T17:00:00
+  Arrival: FRA at 2024-04-27T17:50:00
+  Duration: PT50M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: LUFTHANSA, Flight Number: 7034
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 43
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T17:00:00
+  Arrival: FRA at 2024-04-27T18:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 115
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 44
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T18:00:00
+  Arrival: FRA at 2024-04-27T19:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 117
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 45
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T19:00:00
+  Arrival: FRA at 2024-04-27T20:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 119
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 46
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T16:00:00
+  Arrival: FRA at 2024-04-27T17:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A380-800
+  Carrier: LUFTHANSA, Flight Number: 4062
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 47
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T10:30:00
+  Arrival: FRA at 2024-04-27T11:30:00
+  Duration: PT1H
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4257
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 48
+Price: 642.77
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T12:00:00
+  Arrival: FRA at 2024-04-27T13:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A319
+  Carrier: LUFTHANSA, Flight Number: 4814
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 49
+Price: 655.25
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T19:00:00
+  Arrival: FRA at 2024-04-27T20:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 119
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 50
+Price: 655.25
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T07:00:00
+  Arrival: FRA at 2024-04-27T08:05:00
+  Duration: PT1H5M
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 93
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 51
+Price: 655.25
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T19:00:00
+  Arrival: FRA at 2024-04-27T20:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 119
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 52
+Price: 655.25
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T07:00:00
+  Arrival: FRA at 2024-04-27T07:50:00
+  Duration: PT50M
+  Aircraft: AIRBUS A319
+  Carrier: LUFTHANSA, Flight Number: 7032
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 53
+Price: 655.25
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T07:00:00
+  Arrival: FRA at 2024-04-27T08:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 7196
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 54
+Price: 662.05
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:40:00
+  Duration: PT12H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: LUFTHANSA, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T17:00:00
+  Arrival: FRA at 2024-04-27T17:50:00
+  Duration: PT50M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: LUFTHANSA, Flight Number: 7034
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-28T10:05:00
+  Arrival: VNO at 2024-04-28T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 55
+Price: 662.05
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:30:00
+  Arrival: MUC at 2024-04-27T06:00:00
+  Duration: PT12H30M
+  Aircraft: AIRBUS A340-300
+  Carrier: LUFTHANSA, Flight Number: 4715
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T17:00:00
+  Arrival: FRA at 2024-04-27T17:50:00
+  Duration: PT50M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: LUFTHANSA, Flight Number: 7034
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-28T10:05:00
+  Arrival: VNO at 2024-04-28T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 56
+Price: 662.05
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: MUC at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 747-400
+  Carrier: LUFTHANSA, Flight Number: 4547
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-27T17:00:00
+  Arrival: FRA at 2024-04-27T17:50:00
+  Duration: PT50M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: LUFTHANSA, Flight Number: 7034
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-28T10:05:00
+  Arrival: VNO at 2024-04-28T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 57
+Price: 696.42
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T07:50:00
+  Arrival: IST at 2024-04-26T14:00:00
+  Duration: PT10H10M
+  Aircraft: AIRBUS A330-300
+  Carrier: TURKISH AIRLINES, Flight Number: 59
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: IST at 2024-04-26T16:45:00
+  Arrival: VNO at 2024-04-26T19:45:00
+  Duration: PT3H
+  Aircraft: BOEING 737-900
+  Carrier: TURKISH AIRLINES, Flight Number: 1409
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 58
+Price: 696.42
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T07:50:00
+  Arrival: IST at 2024-04-26T14:00:00
+  Duration: PT10H10M
+  Aircraft: AIRBUS A330-300
+  Carrier: TURKISH AIRLINES, Flight Number: 59
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: IST at 2024-04-27T07:50:00
+  Arrival: VNO at 2024-04-27T10:50:00
+  Duration: PT3H
+  Aircraft: BOEING 737-800 (WINGLETS)
+  Carrier: TURKISH AIRLINES, Flight Number: 1407
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 59
+Price: 699.41
+Number of Bookable Seats: 1
+Segments:
+  Departure: BKK at 2024-04-26T03:00:00
+  Arrival: DOH at 2024-04-26T06:25:00
+  Duration: PT7H25M
+  Aircraft: BOEING 787-8
+  Carrier: QATAR AIRWAYS, Flight Number: 827
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: DOH at 2024-04-26T08:10:00
+  Arrival: HEL at 2024-04-26T15:15:00
+  Duration: PT7H5M
+  Aircraft: AIRBUS A330-300
+  Carrier: QATAR AIRWAYS, Flight Number: 6122
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HEL at 2024-04-26T16:20:00
+  Arrival: VNO at 2024-04-26T18:05:00
+  Duration: PT1H45M
+  Aircraft: ATR 72
+  Carrier: QATAR AIRWAYS, Flight Number: 6151
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 60
+Price: 699.41
+Number of Bookable Seats: 1
+Segments:
+  Departure: BKK at 2024-04-26T02:30:00
+  Arrival: DOH at 2024-04-26T05:30:00
+  Duration: PT7H
+  Aircraft: BOEING 777-300ER
+  Carrier: QATAR AIRWAYS, Flight Number: 837
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: DOH at 2024-04-26T08:10:00
+  Arrival: HEL at 2024-04-26T15:15:00
+  Duration: PT7H5M
+  Aircraft: AIRBUS A330-300
+  Carrier: QATAR AIRWAYS, Flight Number: 6122
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HEL at 2024-04-26T16:20:00
+  Arrival: VNO at 2024-04-26T18:05:00
+  Duration: PT1H45M
+  Aircraft: ATR 72
+  Carrier: QATAR AIRWAYS, Flight Number: 6151
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 61
+Price: 699.41
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:05:00
+  Arrival: DOH at 2024-04-27T00:05:00
+  Duration: PT7H
+  Aircraft: BOEING 777-300ER
+  Carrier: QATAR AIRWAYS, Flight Number: 829
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: DOH at 2024-04-27T08:10:00
+  Arrival: HEL at 2024-04-27T15:15:00
+  Duration: PT7H5M
+  Aircraft: AIRBUS A330-300
+  Carrier: QATAR AIRWAYS, Flight Number: 6122
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HEL at 2024-04-27T16:20:00
+  Arrival: VNO at 2024-04-27T18:05:00
+  Duration: PT1H45M
+  Aircraft: ATR 72
+  Carrier: QATAR AIRWAYS, Flight Number: 6151
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 62
+Price: 699.41
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T20:00:00
+  Arrival: DOH at 2024-04-26T23:00:00
+  Duration: PT7H
+  Aircraft: AIRBUS A380-800
+  Carrier: QATAR AIRWAYS, Flight Number: 835
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: DOH at 2024-04-27T08:10:00
+  Arrival: HEL at 2024-04-27T15:15:00
+  Duration: PT7H5M
+  Aircraft: AIRBUS A330-300
+  Carrier: QATAR AIRWAYS, Flight Number: 6122
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HEL at 2024-04-27T16:20:00
+  Arrival: VNO at 2024-04-27T18:05:00
+  Duration: PT1H45M
+  Aircraft: ATR 72
+  Carrier: QATAR AIRWAYS, Flight Number: 6151
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 63
+Price: 699.85
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T01:20:00
+  Arrival: CPH at 2024-04-26T07:40:00
+  Duration: PT11H20M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 950
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: CPH at 2024-04-26T12:40:00
+  Arrival: VNO at 2024-04-26T15:10:00
+  Duration: PT1H30M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: SCANDINAVIAN AIRLINES, Flight Number: 1742
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 64
+Price: 699.85
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T01:20:00
+  Arrival: CPH at 2024-04-26T07:40:00
+  Duration: PT11H20M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 950
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: CPH at 2024-04-26T21:05:00
+  Arrival: VNO at 2024-04-26T23:35:00
+  Duration: PT1H30M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: SCANDINAVIAN AIRLINES, Flight Number: 742
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 65
+Price: 701.79
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T09:45:00
+  Arrival: DOH at 2024-04-26T12:45:00
+  Duration: PT7H
+  Aircraft: BOEING 777-300ER
+  Carrier: QATAR AIRWAYS, Flight Number: 839
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: DOH at 2024-04-27T08:10:00
+  Arrival: HEL at 2024-04-27T15:15:00
+  Duration: PT7H5M
+  Aircraft: AIRBUS A330-300
+  Carrier: QATAR AIRWAYS, Flight Number: 6122
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HEL at 2024-04-27T16:20:00
+  Arrival: VNO at 2024-04-27T18:05:00
+  Duration: PT1H45M
+  Aircraft: ATR 72
+  Carrier: QATAR AIRWAYS, Flight Number: 6151
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 66
+Price: 701.79
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T09:05:00
+  Arrival: DOH at 2024-04-26T12:05:00
+  Duration: PT7H
+  Aircraft: BOEING 777-300ER
+  Carrier: QATAR AIRWAYS, Flight Number: 831
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: DOH at 2024-04-27T08:10:00
+  Arrival: HEL at 2024-04-27T15:15:00
+  Duration: PT7H5M
+  Aircraft: AIRBUS A330-300
+  Carrier: QATAR AIRWAYS, Flight Number: 6122
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HEL at 2024-04-27T16:20:00
+  Arrival: VNO at 2024-04-27T18:05:00
+  Duration: PT1H45M
+  Aircraft: ATR 72
+  Carrier: QATAR AIRWAYS, Flight Number: 6151
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 67
+Price: 739.90
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: DXB at 2024-04-27T00:50:00
+  Duration: PT6H50M
+  Aircraft: AIRBUS A380-800
+  Carrier: EMIRATES, Flight Number: 373
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: DXB at 2024-04-27T03:45:00
+  Arrival: FRA at 2024-04-27T08:50:00
+  Duration: PT7H5M
+  Aircraft: BOEING 777-300ER
+  Carrier: EMIRATES, Flight Number: 43
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 68
+Price: 745.54
+Number of Bookable Seats: 3
+Segments:
+  Departure: BKK at 2024-04-26T07:15:00
+  Arrival: HEL at 2024-04-26T15:35:00
+  Duration: PT12H20M
+  Aircraft: AIRBUS A350-900
+  Carrier: FINNAIR, Flight Number: 142
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HEL at 2024-04-26T16:20:00
+  Arrival: VNO at 2024-04-26T18:05:00
+  Duration: PT1H45M
+  Aircraft: ATR 72
+  Carrier: FINNAIR, Flight Number: 1105
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 69
+Price: 752.17
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T12:25:00
+  Arrival: FRA at 2024-04-26T19:00:00
+  Duration: PT11H35M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 922
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-26T20:40:00
+  Arrival: VNO at 2024-04-26T23:40:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 70
+Price: 770.48
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T00:05:00
+  Arrival: CDG at 2024-04-26T07:10:00
+  Duration: PT12H5M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 930
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: CDG at 2024-04-26T18:15:00
+  Arrival: VNO at 2024-04-26T21:55:00
+  Duration: PT2H40M
+  Aircraft: AIRBUS  A220-300
+  Carrier: AIR BALTIC, Flight Number: 966
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 71
+Price: 771.45
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T12:25:00
+  Arrival: FRA at 2024-04-26T19:00:00
+  Duration: PT11H35M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 922
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 72
+Price: 803.48
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T02:20:00
+  Arrival: VIE at 2024-04-26T08:35:00
+  Duration: PT11H15M
+  Aircraft: BOEING 787-10
+  Carrier: EVA AIR, Flight Number: 61
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: VIE at 2024-04-26T10:00:00
+  Arrival: VNO at 2024-04-26T12:45:00
+  Duration: PT1H45M
+  Aircraft: AIRBUS A320
+  Carrier: AUSTRIAN AIRLINES, Flight Number: 635
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 73
+Price: 823.17
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:45:00
+  Arrival: FRA at 2024-04-27T06:15:00
+  Duration: PT11H30M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 920
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 74
+Price: 835.65
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:45:00
+  Arrival: FRA at 2024-04-27T06:15:00
+  Duration: PT11H30M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 920
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 888
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 75
+Price: 872.64
+Number of Bookable Seats: 4
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: VIE at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: BOEING 777-200/200ER
+  Carrier: AUSTRIAN AIRLINES, Flight Number: 27
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: VIE at 2024-04-27T09:25:00
+  Arrival: WAW at 2024-04-27T10:40:00
+  Duration: PT1H15M
+  Aircraft: EMBRAER 195
+  Carrier: AUSTRIAN AIRLINES, Flight Number: 8501
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: WAW at 2024-04-27T11:55:00
+  Arrival: VNO at 2024-04-27T14:05:00
+  Duration: PT1H10M
+  Aircraft: EMBRAER 175
+  Carrier: LOT POLISH AIRLINES, Flight Number: 771
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 76
+Price: 1327.22
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:15:00
+  Arrival: DEL at 2024-04-27T02:15:00
+  Duration: PT4H30M
+  Aircraft: BOEING 777-200/200ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 331
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: DEL at 2024-04-27T08:00:00
+  Arrival: WAW at 2024-04-27T12:50:00
+  Duration: PT8H20M
+  Aircraft: BOEING 787-8
+  Carrier: LOT POLISH AIRLINES, Flight Number: 72
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: WAW at 2024-04-27T14:15:00
+  Arrival: VNO at 2024-04-27T16:20:00
+  Duration: PT1H5M
+  Aircraft: EMBRAER 195
+  Carrier: LOT POLISH AIRLINES, Flight Number: 779
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 77
+Price: 1472.82
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T12:05:00
+  Arrival: AMS at 2024-04-26T19:10:00
+  Duration: PT12H5M
+  Aircraft: BOEING 777-200/200ER
+  Carrier: KLM ROYAL DUTCH AIRLINES, Flight Number: 876
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: AMS at 2024-04-27T10:20:00
+  Arrival: VNO at 2024-04-27T13:40:00
+  Duration: PT2H20M
+  Aircraft: AIRBUS  A220-300
+  Carrier: KLM ROYAL DUTCH AIRLINES, Flight Number: 2845
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 78
+Price: 1617.42
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:05:00
+  Arrival: IST at 2024-04-27T05:20:00
+  Duration: PT10H15M
+  Aircraft: AIRBUS A330-300
+  Carrier: TURKISH AIRLINES, Flight Number: 69
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: IST at 2024-04-27T07:50:00
+  Arrival: VNO at 2024-04-27T10:50:00
+  Duration: PT3H
+  Aircraft: BOEING 737-800 (WINGLETS)
+  Carrier: TURKISH AIRLINES, Flight Number: 1407
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 79
+Price: 1825.11
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T02:20:00
+  Arrival: VIE at 2024-04-26T08:35:00
+  Duration: PT11H15M
+  Aircraft: BOEING 787-10
+  Carrier: EVA AIR, Flight Number: 61
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: VIE at 2024-04-26T13:00:00
+  Arrival: WAW at 2024-04-26T14:15:00
+  Duration: PT1H15M
+  Aircraft: EMBRAER 195
+  Carrier: AUSTRIAN AIRLINES, Flight Number: 623
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: WAW at 2024-04-26T16:30:00
+  Arrival: VNO at 2024-04-26T18:35:00
+  Duration: PT1H5M
+  Aircraft: EMBRAER 175
+  Carrier: LOT POLISH AIRLINES, Flight Number: 775
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 80
+Price: 2012.91
+Number of Bookable Seats: 8
+Segments:
+  Departure: BKK at 2024-04-26T23:45:00
+  Arrival: FRA at 2024-04-27T06:15:00
+  Duration: PT11H30M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 920
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T09:50:00
+  Arrival: RIX at 2024-04-27T13:00:00
+  Duration: PT2H10M
+  Aircraft: AIRBUS  A220-300
+  Carrier: AIR BALTIC, Flight Number: 244
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: RIX at 2024-04-27T13:50:00
+  Arrival: VNO at 2024-04-27T14:40:00
+  Duration: PT50M
+  Aircraft: AIRBUS  A220-300
+  Carrier: AIR BALTIC, Flight Number: 343
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 81
+Price: 2504.18
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T21:00:00
+  Arrival: ZRH at 2024-04-27T07:30:00
+  Duration: PT16H30M
+  Aircraft: AIRBUS  A220-100
+  Carrier: SWISS INTERNATIONAL AIR LINES, Flight Number: 444
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: ZRH at 2024-04-27T08:15:00
+  Arrival: FRA at 2024-04-27T09:15:00
+  Duration: PT1H
+  Aircraft: AIRBUS A319
+  Carrier: SWISS INTERNATIONAL AIR LINES, Flight Number: 3612
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 82
+Price: 2716.98
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T00:05:00
+  Arrival: ARN at 2024-04-26T07:00:00
+  Duration: PT11H55M
+  Aircraft: AIRBUS A350-900
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 960
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: ARN at 2024-04-26T15:00:00
+  Arrival: VNO at 2024-04-26T17:25:00
+  Duration: PT1H25M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: SCANDINAVIAN AIRLINES, Flight Number: 740
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 83
+Price: 2959.50
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:45:00
+  Arrival: FRA at 2024-04-27T06:15:00
+  Duration: PT11H30M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 920
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:00:00
+  Arrival: CPH at 2024-04-27T11:20:00
+  Duration: PT1H20M
+  Aircraft: AIRBUS A320NEO
+  Carrier: LUFTHANSA, Flight Number: 826
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: CPH at 2024-04-27T12:25:00
+  Arrival: VNO at 2024-04-27T14:55:00
+  Duration: PT1H30M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: SCANDINAVIAN AIRLINES, Flight Number: 1742
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 84
+Price: 2969.50
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:45:00
+  Arrival: FRA at 2024-04-27T06:15:00
+  Duration: PT11H30M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 920
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T09:30:00
+  Arrival: CPH at 2024-04-27T10:50:00
+  Duration: PT1H20M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: SCANDINAVIAN AIRLINES, Flight Number: 640
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: CPH at 2024-04-27T12:25:00
+  Arrival: VNO at 2024-04-27T14:55:00
+  Duration: PT1H30M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: SCANDINAVIAN AIRLINES, Flight Number: 1742
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 85
+Price: 2969.50
+Number of Bookable Seats: 4
+Segments:
+  Departure: BKK at 2024-04-26T23:45:00
+  Arrival: FRA at 2024-04-27T06:15:00
+  Duration: PT11H30M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 920
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:00:00
+  Arrival: CPH at 2024-04-27T11:25:00
+  Duration: PT1H25M
+  Aircraft: AIRBUS A320NEO
+  Carrier: SCANDINAVIAN AIRLINES, Flight Number: 3642
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: CPH at 2024-04-27T12:25:00
+  Arrival: VNO at 2024-04-27T14:55:00
+  Duration: PT1H30M
+  Aircraft: CANADAIR REGIONAL JET 900
+  Carrier: SCANDINAVIAN AIRLINES, Flight Number: 1742
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 86
+Price: 3342.40
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T00:50:00
+  Arrival: MUC at 2024-04-26T07:05:00
+  Duration: PT11H15M
+  Aircraft: AIRBUS A350-900
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 924
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: MUC at 2024-04-26T08:00:00
+  Arrival: FRA at 2024-04-26T09:00:00
+  Duration: PT1H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 95
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-26T10:05:00
+  Arrival: VNO at 2024-04-26T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: LUFTHANSA, Flight Number: 886
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 87
+Price: 3402.80
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T12:25:00
+  Arrival: FRA at 2024-04-26T19:00:00
+  Duration: PT11H35M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 922
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-26T19:50:00
+  Arrival: WAW at 2024-04-26T21:35:00
+  Duration: PT1H45M
+  Aircraft: EMBRAER 195
+  Carrier: LOT POLISH AIRLINES, Flight Number: 380
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: WAW at 2024-04-26T22:35:00
+  Arrival: VNO at 2024-04-27T00:40:00
+  Duration: PT1H5M
+  Aircraft: EMBRAER 175
+  Carrier: LOT POLISH AIRLINES, Flight Number: 773
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 88
+Price: 3402.80
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:45:00
+  Arrival: FRA at 2024-04-27T06:15:00
+  Duration: PT11H30M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 920
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T07:20:00
+  Arrival: WAW at 2024-04-27T09:10:00
+  Duration: PT1H50M
+  Aircraft: EMBRAER 195
+  Carrier: LOT POLISH AIRLINES, Flight Number: 384
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: WAW at 2024-04-27T11:55:00
+  Arrival: VNO at 2024-04-27T14:05:00
+  Duration: PT1H10M
+  Aircraft: EMBRAER 175
+  Carrier: LOT POLISH AIRLINES, Flight Number: 771
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 89
+Price: 3402.80
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:45:00
+  Arrival: FRA at 2024-04-27T06:15:00
+  Duration: PT11H30M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 920
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:25:00
+  Arrival: WAW at 2024-04-27T12:10:00
+  Duration: PT1H45M
+  Aircraft: EMBRAER 195
+  Carrier: LOT POLISH AIRLINES, Flight Number: 382
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: WAW at 2024-04-27T14:15:00
+  Arrival: VNO at 2024-04-27T16:20:00
+  Duration: PT1H5M
+  Aircraft: EMBRAER 195
+  Carrier: LOT POLISH AIRLINES, Flight Number: 779
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 90
+Price: 3402.80
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:45:00
+  Arrival: FRA at 2024-04-27T06:15:00
+  Duration: PT11H30M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 920
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T07:20:00
+  Arrival: WAW at 2024-04-27T09:10:00
+  Duration: PT1H50M
+  Aircraft: EMBRAER 195
+  Carrier: LOT POLISH AIRLINES, Flight Number: 384
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: WAW at 2024-04-27T14:15:00
+  Arrival: VNO at 2024-04-27T16:20:00
+  Duration: PT1H5M
+  Aircraft: EMBRAER 195
+  Carrier: LOT POLISH AIRLINES, Flight Number: 779
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 91
+Price: 3468.80
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:45:00
+  Arrival: FRA at 2024-04-27T06:15:00
+  Duration: PT11H30M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 920
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T07:20:00
+  Arrival: WAW at 2024-04-27T08:55:00
+  Duration: PT1H35M
+  Aircraft: AIRBUS A319
+  Carrier: LUFTHANSA, Flight Number: 1346
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: WAW at 2024-04-27T11:55:00
+  Arrival: VNO at 2024-04-27T14:05:00
+  Duration: PT1H10M
+  Aircraft: EMBRAER 175
+  Carrier: LOT POLISH AIRLINES, Flight Number: 771
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 92
+Price: 3468.80
+Number of Bookable Seats: 9
+Segments:
+  Departure: BKK at 2024-04-26T23:45:00
+  Arrival: FRA at 2024-04-27T06:15:00
+  Duration: PT11H30M
+  Aircraft: BOEING 777-300ER
+  Carrier: THAI AIRWAYS INTERNATIONAL, Flight Number: 920
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T07:20:00
+  Arrival: WAW at 2024-04-27T08:55:00
+  Duration: PT1H35M
+  Aircraft: AIRBUS A319
+  Carrier: LUFTHANSA, Flight Number: 1346
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: WAW at 2024-04-27T14:15:00
+  Arrival: VNO at 2024-04-27T16:20:00
+  Duration: PT1H5M
+  Aircraft: EMBRAER 195
+  Carrier: LOT POLISH AIRLINES, Flight Number: 779
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 93
+Price: 5371.48
+Number of Bookable Seats: 4
+Segments:
+  Departure: BKK at 2024-04-26T09:35:00
+  Arrival: HND at 2024-04-26T18:00:00
+  Duration: PT6H25M
+  Aircraft: BOEING 787-9
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 848
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HND at 2024-04-26T21:30:00
+  Arrival: FRA at 2024-04-27T05:20:00
+  Duration: PT14H50M
+  Aircraft: BOEING 787-9
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 203
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 6120
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 94
+Price: 5380.64
+Number of Bookable Seats: 4
+Segments:
+  Departure: BKK at 2024-04-26T07:35:00
+  Arrival: NRT at 2024-04-26T15:45:00
+  Duration: PT6H10M
+  Aircraft: BOEING 777-300ER
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 5956
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HND at 2024-04-26T21:30:00
+  Arrival: FRA at 2024-04-27T05:20:00
+  Duration: PT14H50M
+  Aircraft: BOEING 787-9
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 203
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 6120
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 95
+Price: 5380.64
+Number of Bookable Seats: 4
+Segments:
+  Departure: BKK at 2024-04-26T07:00:00
+  Arrival: NRT at 2024-04-26T15:20:00
+  Duration: PT6H20M
+  Aircraft: BOEING 787-10
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 806
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HND at 2024-04-26T21:30:00
+  Arrival: FRA at 2024-04-27T05:20:00
+  Duration: PT14H50M
+  Aircraft: BOEING 787-9
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 203
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T10:05:00
+  Arrival: VNO at 2024-04-27T13:05:00
+  Duration: PT2H
+  Aircraft: AIRBUS A321
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 6120
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 96
+Price: 5555.48
+Number of Bookable Seats: 4
+Segments:
+  Departure: BKK at 2024-04-26T22:45:00
+  Arrival: HND at 2024-04-27T06:55:00
+  Duration: PT6H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 5598
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HND at 2024-04-27T09:40:00
+  Arrival: FRA at 2024-04-27T17:30:00
+  Duration: PT14H50M
+  Aircraft: BOEING 787-9
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 223
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 6121
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 97
+Price: 5555.48
+Number of Bookable Seats: 4
+Segments:
+  Departure: BKK at 2024-04-26T22:45:00
+  Arrival: HND at 2024-04-27T06:55:00
+  Duration: PT6H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 5598
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HND at 2024-04-27T11:45:00
+  Arrival: FRA at 2024-04-27T19:05:00
+  Duration: PT14H20M
+  Aircraft: BOEING 747-8
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 5853
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 6121
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 98
+Price: 5555.48
+Number of Bookable Seats: 4
+Segments:
+  Departure: BKK at 2024-04-26T21:35:00
+  Arrival: HND at 2024-04-27T05:50:00
+  Duration: PT6H15M
+  Aircraft: BOEING 787-9
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 850
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HND at 2024-04-27T09:40:00
+  Arrival: FRA at 2024-04-27T17:30:00
+  Duration: PT14H50M
+  Aircraft: BOEING 787-9
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 223
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 6121
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 99
+Price: 5555.48
+Number of Bookable Seats: 4
+Segments:
+  Departure: BKK at 2024-04-26T21:35:00
+  Arrival: HND at 2024-04-27T05:50:00
+  Duration: PT6H15M
+  Aircraft: BOEING 787-9
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 850
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HND at 2024-04-27T11:45:00
+  Arrival: FRA at 2024-04-27T19:05:00
+  Duration: PT14H20M
+  Aircraft: BOEING 747-8
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 5853
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 6121
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 100
+Price: 5564.64
+Number of Bookable Seats: 4
+Segments:
+  Departure: BKK at 2024-04-26T23:50:00
+  Arrival: NRT at 2024-04-27T08:10:00
+  Duration: PT6H20M
+  Aircraft: BOEING 777-300ER
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 5954
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HND at 2024-04-27T11:45:00
+  Arrival: FRA at 2024-04-27T19:05:00
+  Duration: PT14H20M
+  Aircraft: BOEING 747-8
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 5853
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 6121
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
+Flight ID: 101
+Price: 5564.64
+Number of Bookable Seats: 4
+Segments:
+  Departure: BKK at 2024-04-26T22:10:00
+  Arrival: NRT at 2024-04-27T06:20:00
+  Duration: PT6H10M
+  Aircraft: AIRBUS A350-900
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 5952
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: HND at 2024-04-27T11:45:00
+  Arrival: FRA at 2024-04-27T19:05:00
+  Duration: PT14H20M
+  Aircraft: BOEING 747-8
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 5853
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+  Departure: FRA at 2024-04-27T20:50:00
+  Arrival: VNO at 2024-04-27T23:50:00
+  Duration: PT2H
+  Aircraft: AIRBUS A320NEO
+  Carrier: ALL NIPPON AIRWAYS, Flight Number: 6121
+  Number of Stops: 0
+  Blacklisted in EU: False
+  ---
+------------------------------
